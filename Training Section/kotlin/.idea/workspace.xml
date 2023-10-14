@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f0b5ea9-d293-4eac-be0b-75ee9d87b88c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/Exercises/Exercise.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/Exercises/Exercise2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/Exercises/Exercise3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/Exercises/Exercise4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/Exercises/Exercise5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Decisions/1. Introduction Decisions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Decisions/2. If Else.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Decisions/3. Comparison operators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Decisions/Exercises/Exercise.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Decisions/Exercises/Exercise01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Decisions/Exercises/Exercise2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -51,30 +53,30 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Exercise5Kt">
+  <component name="RunManager" selected="Kotlin.Exercise2Kt">
+    <configuration name="Exercise01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decisions.Exercises.Exercise01Kt" />
+      <module name="Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Exercises.Exercise2Kt" />
+      <option name="MAIN_CLASS_NAME" value="Decisions.Exercises.Exercise2Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Exercises.Exercise3Kt" />
+    <configuration name="ExerciseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decisions.Exercises.ExerciseKt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Exercises.Exercise4Kt" />
-      <module name="Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Exercises.Exercise5Kt" />
+    <configuration name="_2__If_ElseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decisions._2__If_ElseKt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Exercise5Kt" />
-        <item itemvalue="Kotlin._3__String_FunctionKt" />
-        <item itemvalue="Kotlin.Exercise4Kt" />
-        <item itemvalue="Kotlin.Exercise3Kt" />
         <item itemvalue="Kotlin.Exercise2Kt" />
+        <item itemvalue="Kotlin.ExerciseKt" />
+        <item itemvalue="Kotlin.Exercise01Kt" />
+        <item itemvalue="Kotlin._3__String_FunctionKt" />
+        <item itemvalue="Kotlin._2__If_ElseKt" />
       </list>
     </recent_temporary>
   </component>
