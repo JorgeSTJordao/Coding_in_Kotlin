@@ -1,4 +1,4 @@
-package `1`.`1Functions`.Exercises
+package Functions.Exercises
 
 fun conversion(yearsQtde: Byte){
     println("${yearsQtde} years is the same thing as...")

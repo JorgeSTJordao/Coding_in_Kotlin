@@ -1,4 +1,4 @@
-package `2`.Decisions
+package Decisions
 
 fun areOfAge(age: Byte){
     if (age >= 16){

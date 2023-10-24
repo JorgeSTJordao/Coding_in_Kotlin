@@ -1,4 +1,4 @@
-package `2`.Decisions.Exercises2
+package Decisions.Exercises2
 
 fun geometricShape(s1: Int, s2: Int, s3: Int){
     if(s1 == s2 && s2 == s3){

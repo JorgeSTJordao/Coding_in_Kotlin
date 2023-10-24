@@ -1,4 +1,4 @@
-package `4`.Exceptions
+package Exceptions
 
 fun main() {
     var s: String? = null

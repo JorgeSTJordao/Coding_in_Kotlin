@@ -1,4 +1,4 @@
-package `3`.Loop
+package Loop
 
 fun main() {
 

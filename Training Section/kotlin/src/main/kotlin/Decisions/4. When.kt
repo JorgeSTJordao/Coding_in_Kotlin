@@ -1,4 +1,4 @@
-package `2`.Decisions
+package Decisions
 
 fun positionChoice(choice: String): Float {
     return if (choice == "Gerente"){

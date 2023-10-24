@@ -1,4 +1,4 @@
-package `2`.Decisions.Exercises
+package Decisions.Exercises
 
 /*
 It's going to return the last character of String sequence

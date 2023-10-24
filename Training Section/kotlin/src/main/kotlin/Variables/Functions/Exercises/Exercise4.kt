@@ -1,4 +1,4 @@
-package `1`.`1Functions`.Exercises
+package Functions.Exercises
 
 fun conversionDistance(milesQtde: Float): Float{
     return (milesQtde*1.6f)

@@ -1,4 +1,4 @@
-package `2`.Decisions
+package Decisions
 // Input | Output
 fun main() {
     val input = readLine()

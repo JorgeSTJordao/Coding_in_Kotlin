@@ -1,4 +1,4 @@
-package `2`.Decisions
+package Decisions
 
 fun main() {
     println(13 == 13 && 10 != 10)
