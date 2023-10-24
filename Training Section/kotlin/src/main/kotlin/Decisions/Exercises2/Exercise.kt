@@ -1,4 +1,4 @@
-package Decisions.Exercises2
+package `2`.Decisions.Exercises2
 
 fun checkVariables(height: Int, length: Int){
     if (height == length){

@@ -1,4 +1,4 @@
-package Decisions
+package `2`.Decisions
 
 fun main() {
     val num = 30

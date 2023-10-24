@@ -1,4 +1,4 @@
-package Loop.Exercises
+package `3`.Loop.Exercises
 
 fun main() {
     var sum: Int = 0

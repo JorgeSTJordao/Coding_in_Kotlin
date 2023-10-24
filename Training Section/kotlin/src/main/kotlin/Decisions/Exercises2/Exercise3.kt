@@ -1,4 +1,4 @@
-package Decisions.Exercises2
+package `2`.Decisions.Exercises2
 
 fun checkIn(age: Byte, ticketType: String, ticketCode: String): String{
     if (age >= 16){
