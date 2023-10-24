@@ -5,7 +5,7 @@ fun main() {
     var sumAna:  Float = 0f
     var sumPaula: Float = 0f
     val salAna: Float = 10000f
-    val salCompany: Int = salAna
+    val salCompany: Float = salAna
     val salPaula: Float = 10000f
     var monthsTime: Int = 0
 
