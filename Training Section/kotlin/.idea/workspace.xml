@@ -9,14 +9,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f0b5ea9-d293-4eac-be0b-75ee9d87b88c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/1. Creating functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/2. Inline Function.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/3. String Function.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/4. Math function.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/5. Parameters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions/6. N parameters.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +62,12 @@
       <recent name="C:\Users\jorge\Documentos\GitHub\My_Own_Projects_Kotlin\Training Section\kotlin\src\main\kotlin\Loop\Exercises" />
       <recent name="C:\Users\jorge\Documentos\GitHub\My_Own_Projects_Kotlin\Training Section\kotlin\src\main\kotlin\Loop" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jorge\OneDrive\GitHub\My_Own_Projects_Kotlin\Training Section\kotlin\src\main\kotlin\Functions" />
+      <recent name="C:\Users\jorge\OneDrive\GitHub\My_Own_Projects_Kotlin\Training Section\kotlin\src\main\kotlin\Functions\Exercises" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.ChallengeKt">
     <configuration name="ChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Decisions.ChallengeKt" />
       <module name="kotlin" />
