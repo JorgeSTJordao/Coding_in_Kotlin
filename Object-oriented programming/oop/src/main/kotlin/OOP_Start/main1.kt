@@ -1,4 +1,6 @@
-class Person(var birthYear: Int, var name: String){
+package OOP_Start
+
+class Person1(var birthYear: Int, var name: String){
 
     var body: String = ""
 
@@ -14,7 +16,7 @@ fun main() {
     // class - attributes and methods
 
     // class = object
-    var person: Person = Person(2000, "Steve")
+    var person: Person1 = Person1(2000, "Steve")
 
     person.name
     person.wake()
