@@ -7,6 +7,7 @@ The main purpose of this repository is sharing some **Kotlin Projects** with eve
  - *Object-Oriented Programming*: everything about OOP using Kotlin
 
 ### References:
-- *Udemy Course*: [Website Desenvolvimento de Aplicativos Android usando Kotlin](https://www.udemy.com/course/curso-desenvolvedor-kotlin/)
-- *Kotlin Docs*: [Website Kotlin](https://kotlinlang.org/docs/home.html)
+- Website:
+ - *Udemy Course*: [Website Desenvolvimento de Aplicativos Android usando Kotlin](https://www.udemy.com/course/curso-desenvolvedor-kotlin/)
+ - *Kotlin Docs*: [Website Kotlin](https://kotlinlang.org/docs/home.html)
 
