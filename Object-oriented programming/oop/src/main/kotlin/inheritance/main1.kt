@@ -1,6 +1,7 @@
 package inheritance
 
-open class Instrument(var brand: String){
+open class Instrument1(var brand: String){
+
     fun play() {
         println("Playing...!Done")
     }
@@ -9,12 +10,12 @@ open class Instrument(var brand: String){
     }
 }
 
-class Drums(brand: String): Instrument(brand){
-    fun Structure(){} 
+class Drums1(brand: String): Instrument1(brand){
+    fun Structure(){}
 }
 fun main() {
 
-    var d: Drums = Drums("Zildjian")
+    var d: Drums1 = Drums1("Zildjian")
 
     d.play()
     d.tuneUp()
