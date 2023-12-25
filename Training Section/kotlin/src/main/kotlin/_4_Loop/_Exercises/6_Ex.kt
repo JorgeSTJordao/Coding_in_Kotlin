@@ -1,17 +1,20 @@
 package _4_Loop._Exercises
 
 fun main() {
-    val volume = 2000
-    var variation = 7
+    var volume = 1995
+    val variation = 7
     var unit = 0
 
-    variation += variation
 
     while (volume >= variation){
+        volume -= variation
         ++unit
-        variation += variation
-        println(variation)
+        //print("$volume ")
     }
 
-    print("Serão necessários $unit unidades")
+    if (volume == 0){
+        print("Todo o galão foi preenchido com $unit unidades")
+    }else{
+        print("Ainda ficaram em falta $volume L para preencher o galão. Mas o resto precisou de $unit unidades")
+    }
 }
