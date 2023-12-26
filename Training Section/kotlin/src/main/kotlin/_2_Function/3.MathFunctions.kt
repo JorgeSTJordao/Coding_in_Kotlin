@@ -1,6 +1,10 @@
 package _2_Function
+
+import kotlin.math.*
+
 fun main() {
     val string = "hi there"
+
 
     println(string.length)
 
