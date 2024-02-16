@@ -1,8 +1,11 @@
 package _5_Exceptions
 
 fun main() {
-    //print("Type the first letter of your name: ")
-    val letter: String? = null
-    //println(letter?.length)
-    println(letter!!.length)
+    //Now we're dealing with null values. The "?" modifier will be used in this situation
+    val variable: String? = null
+    println(variable?.length)
+
+
+    val anotherVariable = readLine()
+    println(anotherVariable?.length)
 }
