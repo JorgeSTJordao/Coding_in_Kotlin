@@ -1,14 +1,15 @@
 import OOP.School
 
-class School(val yearFoundation: Int, var name: String){
+//class and attributes
+class School (val yearFoundation: Int, val name: String){
 
+    //methods
     fun registerStudents(){
+        println("${yearFoundation}")
     }
-
     fun registerTeachers(){
     }
 }
-
 
 fun main() {
     val schoolX: School = School(1978, "RDA")

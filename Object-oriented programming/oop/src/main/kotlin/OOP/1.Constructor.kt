@@ -2,11 +2,15 @@ package OOP
 
 class School(val yearFoundation: Int, var name: String){
 
+    //Properties
     var doc: String? = null
+
     constructor(yearFoundation: Int, name: String, doc: String) : this(yearFoundation, name){
+        //this = is the object
         this.doc = doc
     }
 
+    //Methods
     fun registerStudents(){
     }
 

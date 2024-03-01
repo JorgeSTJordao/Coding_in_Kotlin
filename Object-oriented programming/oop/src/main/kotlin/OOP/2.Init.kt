@@ -3,6 +3,7 @@ package OOP
 class Animal(val species: String){
 
     var speak: String = ""
+
     init {
         if (species == "cat")
             speak = "miau"
@@ -11,14 +12,11 @@ class Animal(val species: String){
     }
 
     fun run(){
-
     }
 
     fun walk(){
-
     }
 }
-
 fun main() {
     Animal("Jack")
 }

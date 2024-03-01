@@ -6,4 +6,6 @@ fun main() {
     variable?.let{
         println(variable.length)
     }
+
+    val answer = rea
 }

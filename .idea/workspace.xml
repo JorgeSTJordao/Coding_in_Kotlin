@@ -5,10 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="017dbd86-3fe3-4c82-8206-82a141719149" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercises_Section/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises_Section/src/main/kotlin/BeeCrowd/_1_Beginners/_1000_HelloWorld.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises_Section/src/main/kotlin/BeeCrowd/_1_Beginners/_1001_VeryEasy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises_Section/src/main/kotlin/BeeCrowd/_1_Beginners/_1002_CircleArea.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises_Section/src/main/kotlin/BeeCrowd/_1_Beginners/_1003_SimpleSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises_Section/src/main/kotlin/BeeCrowd/_1_Beginners/_1005_Average1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises_Section/src/main/kotlin/BeeCrowd/_1_Beginners/_1011_SphereVolume.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises_Section/src/main/kotlin/BeeCrowd/_1_Beginners/_1036_QuadraticFormula.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises_Section/src/main/kotlin/BeeCrowd/_1_Beginners/_1037_Interval.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradle_Section/src/test/kotlin/MainTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training Section/kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Training Section/kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training Section/kotlin/src/main/kotlin/Decisions/Challenge.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Training Section/kotlin/src/main/kotlin/Decisions/Challenge.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises_Section/src/main/kotlin/BeeCrowd/_1_Beginners/_1005_Media.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/oop/src/main/kotlin/OOP/1.Constructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/oop/src/main/kotlin/OOP/1.Constructor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/oop/src/main/kotlin/OOP/2.Init.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/oop/src/main/kotlin/OOP/2.Init.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/oop/src/main/kotlin/OOP/3.GetterSetterField.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/oop/src/main/kotlin/OOP/3.GetterSetterField.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/oop/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/oop/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/PrivateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/PrivateClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/School.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/_1_ConstructorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/_1_ConstructorKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/_2_InitKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/OOP/_2_InitKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/Object-oriented programming/out/production/Object-oriented programming/School.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training Section/kotlin/src/main/kotlin/_5_Exceptions/1.NullSafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Training Section/kotlin/src/main/kotlin/_5_Exceptions/1.NullSafety.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training Section/kotlin/src/main/kotlin/_5_Exceptions/2.ExceptionTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Training Section/kotlin/src/main/kotlin/_5_Exceptions/2.ExceptionTypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training Section/kotlin/src/main/kotlin/_5_Exceptions/3.OperatorLet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Training Section/kotlin/src/main/kotlin/_5_Exceptions/3.OperatorLet.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +55,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -27,10 +66,13 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="6e87c59e-b1e7-4015-bd56-fdf17f11bf71" />
-        <option name="url" value="https://github.com/JorgeSTJordao/My_Own_Projects_Kotlin.git" />
+        <option name="accountId" value="5293b69e-19cb-45b8-8f1d-b029ea1ddf85" />
+        <option name="url" value="https://github.com/JorgeSTJordao/Coding_in_Kotlin.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -43,18 +85,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/jorge/OneDrive/GitHub/My_Own_Projects_Kotlin",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jorge.LAPTOP-6TDCOHBG/OneDrive/GitHub/Coding_in_Kotlin&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.Kotlin&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-eb49e076" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
