@@ -8,4 +8,5 @@ fun main() {
     //Costumers name
     println(map_.keys)
     println(map_.get("Ana") == map_["Ana"])
+
 }
