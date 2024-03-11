@@ -1,9 +1,19 @@
 package _3_Condition
 
 fun main() {
-    val num = readLine()
+    var estado = false
 
-    if (num != null && num != ""){
-        num.toInt()
+    while (!estado) {
+        print("Digite um número inteiro: ")
+        val valor: String? =  readlnOrNull()
+        try {
+            valor?.let {
+                val numInt = it.toInt()
+                println("O número selecionado foi $numInt")
+                estado = true
+            }
+        } catch (e: Exception) {
+            println("Valor nulo ou de tipo diferente")
+        }
     }
 }

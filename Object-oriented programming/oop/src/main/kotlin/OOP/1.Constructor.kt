@@ -1,32 +1,40 @@
 package OOP
 
-class School(val yearFoundation: Int, var name: String){
+class School(val id: Int, var name: String){
 
-    //Properties
-    var doc: String? = null
+    //Attributes
+    //In the class the attribute must have a value (it can be null)
+    var yearFoundation: Int? = null
 
-    constructor(yearFoundation: Int, name: String, doc: String) : this(yearFoundation, name){
-        //this = is the object
-        this.doc = doc
+    constructor(id: Int, name: String, yearFoundation: Int) : this(id, name){
+
+        //this = the object
+        this.yearFoundation = yearFoundation
+
+        if (yearFoundation < 1985)
+            println("Old-school")
+        else
+            println("New School")
     }
 
     //Methods
-    fun registerStudents(){
-    }
-
     fun registerTeachers(){
     }
+
 }
 
 class PrivateClass private constructor()
 
 fun main() {
-    val schoolX: School = School(1978, "RDA","e21e2121")
+    val schoolX: School = School(1, "RDA",1985)
+
+    //Name and year foundation
+    println(schoolX.id)
     println(schoolX.yearFoundation)
 
+    //Methods
     schoolX.registerTeachers()
-    schoolX.registerStudents()
-    println(schoolX.doc)
+
 
 
 }

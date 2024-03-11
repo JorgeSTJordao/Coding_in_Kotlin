@@ -1,24 +1,32 @@
 package Inheritance
 
-import kotlin.math.pow
-
 open class Eletronic1(val os: String){
 
-    private val minMemorySize = 2f.pow(30)
+    val memorySizeRAM = "RAM memory size: 8 GB"
+    //private val shapePhone = "Rectangle"
+    protected val shapePhone = "Rectangle"
 
-    fun powerOn(){ }
+    fun powerOn(){
+        println("The cell phone was turned on")
+    }
 
-    protected fun powerOff(){}
+    fun powerOff(){
+        println("The cell phone was turned off")
+    }
 }
 
 class Phone1(os: String): Eletronic1(os){
 
-    fun listenMusic(){}
+     fun listenMusic(){
+         println("You're listening Simple Plan right now")
+     }
 }
 
 fun main() {
     val p: Phone1 = Phone1("Android")
 
     p.powerOn()
+    println(p.memorySizeRAM)
     p.listenMusic()
+    p.powerOff()
 }
