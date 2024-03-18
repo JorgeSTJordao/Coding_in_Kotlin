@@ -1,40 +1,24 @@
 package OOP
 
-class School(val id: Int, var name: String){
+class Triangle(val id: Int, val hight: Int, val lenght_: Int){
 
-    //Attributes
-    //In the class the attribute must have a value (it can be null)
-    var yearFoundation: Int? = null
-
-    constructor(id: Int, name: String, yearFoundation: Int) : this(id, name){
-
-        //this = the object
-        this.yearFoundation = yearFoundation
-
-        if (yearFoundation < 1985)
-            println("Old-school")
-        else
-            println("New School")
+    var area = 0
+    constructor(id: Int, hight: Int, lenght_: Int, area: Int): this(id, hight, lenght_){
+        this.area = area
     }
 
-    //Methods
-    fun registerTeachers(){
+    fun area(): Int{
+        if (area == 0){
+            area = (hight*lenght_)/2
+            return area
+        }
+        return area
     }
-
 }
 
-class PrivateClass private constructor()
-
 fun main() {
-    val schoolX: School = School(1, "RDA",1985)
+    val triangle1: Triangle = Triangle(1, 2, 5)
+    val triangle2: Triangle = Triangle(2, 3, 3, 9)
 
-    //Name and year foundation
-    println(schoolX.id)
-    println(schoolX.yearFoundation)
-
-    //Methods
-    schoolX.registerTeachers()
-
-
-
+    println(triangle1.area())
 }

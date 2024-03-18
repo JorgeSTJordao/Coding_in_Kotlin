@@ -1,31 +1,35 @@
 package OOP
 
-class Animal(val name: String, val species: String){
-
-    var speak: String? = null
+class BankAccount(val holder: String, private var balance: Float = 1000f){
 
     init {
-        if (species == "cat")
-            speak = "miau, miau"
-        else if (species == "dog")
-            speak = "au, au"
+        if (balance < 0)
+            throw IllegalArgumentException("Negative balance is not accepted")
     }
 
-    fun run(){
-        println("Jack: $speak")
-        println("Owner: run $name, run!")
+    fun getMoney(value: Float): String{
+        if (value < 0)
+            throw IllegalArgumentException("Negative value is not accepted")
+        else if (this.balance < value)
+            return "The Balance value is negative. Choose another value"
+        else
+            this.balance -= value
+            return "Now you've got R$ ${this.balance}"
     }
 
-    fun walk(){
-        println("Jack: $speak")
-        println("Owner: keep walking my little $name")
+    fun depositMoney(value: Float): String{
+        if (value < 0)
+            throw IllegalArgumentException("Negative balance is not accepted")
+        this.balance += value
+        return "Now you've got R$ ${this.balance}"
     }
+
 }
 fun main() {
-    val animal1: Animal = Animal("Jack", "cat")
-
-    animal1.run()
-    animal1.walk()
+    val bankAccount1 = BankAccount("Peter")
+    println(bankAccount1.depositMoney(500f))
+    println(bankAccount1.getMoney(2000f))
+    print(bankAccount1.getMoney(500f))
 }
 
 

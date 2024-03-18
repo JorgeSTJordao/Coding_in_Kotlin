@@ -1,19 +1,30 @@
 package OOP
 
-enum class AnimalEnum(val id: Int){
-    Grasshopper(1){
-        override fun toString(): String {
-            return "Priority ID $id"
-        }
-                  },
-    Rabbit(2),
-    Bird(3),
-    Dog(4),
-    Horse(5)
+import java.time.LocalDate
+
+enum class Cargo(val cargo: String, val salario: Double){
+    //Cada opção está relacionada a classe, e todos os métodos listados...
+    //abaixo fazem parte dos objetos
+    GERENTE("Gerente", 6000.0),
+    DIRETOR("Diretor", 4500.0),
+    DESENVOLVEDOR("Desenvolvedor", 3000.0),
+    ANALISTA_DADOS("Analista de Dados", 3100.0);
+
+    fun categoriaCargo(): String = cargo
+
+    fun categoriaSalario(): Double = salario
+}
+
+class Funcionario(val nome: String, val cargo: Cargo, val dataEmissao: LocalDate) {
+
+    fun calcularSalarioAnual(): Double {
+        return cargo.categoriaSalario() * 12
+    }
+
+    override fun toString(): String = "${nome} - ${cargo.categoriaCargo()} - ${dataEmissao} - R$ ${cargo.categoriaSalario()}"
 }
 
 fun main() {
-    for (animal in AnimalEnum.entries){
-        println(animal)
-    }
+    val funcionario1 = Funcionario("Antônio", Cargo.GERENTE, LocalDate.of(2000, 1, 1))
+    println("O salário anual é de R$ ${funcionario1.calcularSalarioAnual()}")
 }

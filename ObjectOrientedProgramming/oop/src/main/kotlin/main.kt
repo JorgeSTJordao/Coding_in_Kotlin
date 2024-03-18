@@ -1,5 +1,3 @@
-import OOP.School
-
 //class and attributes
 class School (val yearFoundation: Int, val name: String){
 
