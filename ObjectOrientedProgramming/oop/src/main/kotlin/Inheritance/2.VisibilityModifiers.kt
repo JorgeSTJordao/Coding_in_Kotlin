@@ -1,32 +1,38 @@
 package Inheritance
 
-open class Eletronic1(val os: String){
+open class Eletronic(private val os: String){
 
-    val memorySizeRAM = "RAM memory size: 8 GB"
-    //private val shapePhone = "Rectangle"
-    protected val shapePhone = "Rectangle"
+    private var tamanhoRAM = "Tamanho de memória RAM: 8 GB"
 
-    fun powerOn(){
-        println("The cell phone was turned on")
+    fun ligar(): Boolean{
+        return true
     }
 
-    fun powerOff(){
-        println("The cell phone was turned off")
+    open fun desligar(): Boolean{
+        return false
     }
 }
 
-class Phone1(os: String): Eletronic1(os){
+class Celular(os: String): Eletronic(os){
 
-     fun listenMusic(){
-         println("You're listening Simple Plan right now")
+     fun ouvirMusica(){
+         println("Você está ouvindo Simple Plan agora")
      }
+
+    //Sobrescrever a função
+    override fun desligar(): Boolean{
+        //Chamando a função pai (herança)
+        println("Desligando celular")
+        val estado = super.desligar()
+        return estado
+    }
 }
 
 fun main() {
-    val p: Phone1 = Phone1("Android")
+    val p1: Celular = Celular("Android")
+    val p2: Celular = Celular("iOS")
 
-    p.powerOn()
-    println(p.memorySizeRAM)
-    p.listenMusic()
-    p.powerOff()
+    p1.ligar()
+    p1.ouvirMusica()
+    p1.desligar()
 }

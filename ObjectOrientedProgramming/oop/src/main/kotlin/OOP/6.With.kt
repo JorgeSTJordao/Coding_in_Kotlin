@@ -1,11 +1,9 @@
 package OOP
 
 fun main() {
-    //U can find Animal class in file "2.Init.kt"
-    //val animal: Animal = Animal("dog")
-
-    //with(animal){
-        //run()
-        //walk()
-    //}
+    with(Triangle(3, 2, 3)){
+        hight = 10
+        lenght_ = 3
+        println("O valor da área é ${area()}")
+    }
 }

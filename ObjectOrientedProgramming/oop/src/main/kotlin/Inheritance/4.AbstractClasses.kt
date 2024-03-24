@@ -1,18 +1,21 @@
 package Inheritance
-//os: Operating System
 
-abstract class Eletronic4(val os: String){
-    fun powerOn(){}
+abstract class Poligonos{
 
-    fun powerOff(){}
+    val tipo = "Poligono"
 
-    abstract fun recharge()
+    abstract fun area(l: Int): String
+
+}
+
+class Quadrado(): Poligonos(){
+    override fun area(l: Int): String{
+        val areaString = "${l*l} cm2"
+        return areaString
+    }
 }
 
 fun main() {
-    //val p: Phone4 = Phone4("Android")
-
-    //p.powerOn()
-    //p.listenMusic()
-    //p.powerOff()
+    val quadrado1 = Quadrado()
+    println(quadrado1.area(5))
 }

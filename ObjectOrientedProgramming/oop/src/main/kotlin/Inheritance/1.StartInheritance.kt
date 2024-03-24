@@ -1,21 +1,45 @@
 package Inheritance
 
-//os: Operating System
-
-open class Eletronic(val os: String){
-    fun powerOn(){}
-
-    fun powerOff(){}
+enum class SuporteInstrumento(val suporte: String){
+    PALETAS("paleta"),
+    BAQUETAS("baquetas"),
+    OUTROS("outros"),
+    SEM("não tem")
 }
 
-class Phone(os: String): Eletronic(os){
-    fun listenMusic(){}
+open class Instrumento(){
+
+    var nome = ""
+    constructor(nome: String): this(){
+        this.nome = nome
+    }
+
+    fun tocar(){
+        println("Tocando")}
+
+    fun afinar(){
+        println("Afinando")}
+
+    fun pararTocar(){
+        println("Parando de tocar")
+    }
 }
+
+class Guitarra(val recurso: SuporteInstrumento): Instrumento("guitarra")
+
+
+class Bateria(val recurso: SuporteInstrumento): Instrumento("bateria")
+
 
 fun main() {
-    val p: Phone = Phone("Android")
+    val bateria = Bateria(SuporteInstrumento.BAQUETAS)
+    val guitarra = Guitarra(SuporteInstrumento.PALETAS)
 
-    p.powerOn()
-    p.listenMusic()
-    p.powerOff()
+    //Bateria
+    guitarra.afinar()
+    bateria.afinar()
+
+    //Tocando
+    bateria.tocar()
+    bateria.pararTocar()
 }

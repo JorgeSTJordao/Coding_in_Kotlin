@@ -1,27 +1,32 @@
 package Inheritance
-//os: Operating System
 
-interface Expensive {
-    fun reducePrice(){}
+abstract class FormaGeometrica{
+    abstract fun area(): Float
+
+    abstract fun perimetro(): Int
 }
 
-open class Eletronic5(val os: String){
-    fun powerOn(){}
+class Triangulo(): FormaGeometrica(){
+    override fun area(): Float {
+        TODO("Not yet implemented")
+    }
 
-    fun powerOff(){}
+    override fun perimetro(): Int {
+        TODO("Not yet implemented")
+    }
 }
 
-class Phone5(os: String): Eletronic5(os), Expensive{
-    fun installApplication(){}
+class Circulo: FormaGeometrica(){
 
-    override fun reducePrice() {
-        super.reducePrice()
+    override fun area(): Float {
+        TODO("Not yet implemented")
+    }
+
+    override fun perimetro(): Int {
+        TODO("Not yet implemented")
     }
 }
 
 fun main() {
-    val p: Phone5 = Phone5("Android")
 
-    p.powerOn()
-    p.powerOff()
 }

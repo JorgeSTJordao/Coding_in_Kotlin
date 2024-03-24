@@ -1,6 +1,6 @@
 package OOP
 
-class Triangle(val id: Int, val hight: Int, val lenght_: Int){
+class Triangle(val id: Int, var hight: Int, var lenght_: Int){
 
     var area = 0
     constructor(id: Int, hight: Int, lenght_: Int, area: Int): this(id, hight, lenght_){
