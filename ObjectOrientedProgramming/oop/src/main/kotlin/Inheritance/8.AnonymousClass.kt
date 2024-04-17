@@ -1,5 +1,0 @@
-package Inheritance
-
-fun main() {
-
-}
