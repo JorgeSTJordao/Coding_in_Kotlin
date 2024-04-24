@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b2c2492-6795-4773-b934-9e6a49f09976" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/Inheritance/1.StartInheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a2_Inheritance/1.StartInheritance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/Inheritance/2.VisibilityModifiers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a2_Inheritance/2.VisibilityModifiers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/Inheritance/3.OverrideAndOverload.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a2_Inheritance/3.OverrideAndOverload.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/Inheritance/4.AbstractClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a2_Inheritance/4.AbstractClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/Inheritance/5.Interface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a2_Inheritance/5.Interface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/Inheritance/6.Polymorphism.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a2_Inheritance/6.Polymorphism.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/Inheritance/7.ObjectCompanion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a2_Inheritance/7.ObjectCompanion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/Inheritance/8.AnonymousClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a2_Inheritance/8.AnonymousClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/OOP/1.Constructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a1_OOP/1.Constructor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/OOP/2.Init.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a1_OOP/2.Init.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/OOP/3.GetterSetterField.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a1_OOP/3.GetterSetterField.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/OOP/4.Enumerate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a1_OOP/4.Enumerate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/OOP/5.ClassDataClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a1_OOP/5.ClassDataClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/OOP/6.With.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a1_OOP/6.With.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/OOP/7.Lateinit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a1_OOP/7.Lateinit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/ProjectReception/business/BusinessGuest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a3_ProjectReception/business/BusinessGuest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/ProjectReception/control/Console.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a3_ProjectReception/control/Console.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/ProjectReception/control/Entrance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a3_ProjectReception/control/Entrance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/ProjectReception/entity/Invitation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a3_ProjectReception/entity/Invitation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/ProjectReception/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/a3_ProjectReception/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/main/kotlin/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Analyst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Bateria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Celular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Eletronic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Eletronic5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Expensive$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Expensive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Guitarra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Instrumento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Matematica$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Matematica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Phone5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Poligonos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/Quadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/SuporteInstrumento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/_1_StartInheritanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/_2_VisibilityModifiersKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/_3_OverrideAndOverloadKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/_4_AbstractClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/_5_InterfaceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/_6_PolymorphismKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/Inheritance/_7_ObjectCompanionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/META-INF/Object-oriented programming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Object-oriented programming/META-INF/Object-oriented programming.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Object-oriented programming/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/Cargo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/DataNascimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/Endereco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/_1_ConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/_2_InitKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/_3_GetterSetterFieldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/_4_EnumerateKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/_5_ClassDataClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/_6_WithKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/OOP/_7_LateinitKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/ProjectReception/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/ProjectReception/business/BusinessGuest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/ProjectReception/control/Console$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/ProjectReception/control/Console.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/ProjectReception/control/Entrance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/ProjectReception/entity/Invitation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Object-oriented programming/School.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2a6r4RHQo6CyuUFHKKu6JjP4l9B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jorge/OneDrive/GitHub/Coding_in_Kotlin/ObjectOrientedProgramming&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jorge\OneDrive\GitHub\Coding_in_Kotlin\Object-oriented programming\oop\src\main\kotlin\Inheritance" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="ProjectReception.control" />
+      <recent name="ProjectReception.entity" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="ProjectReception" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b2c2492-6795-4773-b934-9e6a49f09976" name="Changes" comment="" />
+      <created>1703649677666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703649677666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
