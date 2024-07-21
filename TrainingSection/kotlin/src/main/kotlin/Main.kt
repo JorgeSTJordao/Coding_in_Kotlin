@@ -1,4 +1,10 @@
-//Criando a função principal (ponto inicial)
+import couroutines.runBlockingFunction
+
+
+fun printData(data: String) = data
+
+
 fun main() {
-    println("Hello, World!")
+    runBlockingFunction()
+
 }
