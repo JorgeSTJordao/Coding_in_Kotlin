@@ -6,7 +6,7 @@ import kotlinx.coroutines.flow.flow
 
 fun flowFunction(): Flow<Int> = flow {
     for (i in 1..3){
-        delay(100L)
+        delay(1000L)
         emit(i)
     }
 }
